@@ -1,3 +1,5 @@
+/* eslint-disable @next/next/no-img-element */
+/* eslint-disable jsx-a11y/alt-text */
 import { Popover } from "@headlessui/react";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/router";
@@ -84,7 +86,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 )}
 
                 <Button
-                  onClick={() => window.open("mailto:hello@chetanverma.com")}
+                  onClick={() =>
+                    window.open("mailto:varshneyankit011@gmail.com")
+                  }
                 >
                   Contact
                 </Button>
@@ -120,7 +124,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
+            <Button
+              onClick={() => window.open("mailto:varshneyankit011@gmail.com")}
+            >
               Contact
             </Button>
             {mounted && theme && data.darkMode && (
@@ -149,7 +155,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
+            <Button
+              onClick={() => window.open("mailto:varshneyankit011@gmail.com")}
+            >
               Contact
             </Button>
 
