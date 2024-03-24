@@ -1,1 +1,103 @@
-{"name":"Ankit Varshney","headerTaglineOne":"Hey there! 👋","headerTaglineTwo":"I'm Ankit Varshney,","headerTaglineThree":"an impassioned frontend devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":false,"showBlog":false,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/ankitvars"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/ankitvars/"},{"id":"3","title":"Twitter","link":"https://twitter.com/ankit_vars"},{"id":"5","title":"Email","link":"mailto:varshneyankit011@gmail.com"},{"id":"2ecc0246-0cde-4151-8ce9-6d40a8c89afb","title":"Leetcode","link":"https://leetcode.com/ankit1802/"}],"projects":[{"id":"1","title":"Disney+ clone","description":"Web Development","imageSrc":"https://i.ibb.co/FbkTZXC/project1.png","url":"https://github.com/ankitvars/youtube-disney-clone"},{"id":"2","title":"Amazon Clone (UI)","description":"Web Development","imageSrc":"https://i.ibb.co/JCRr0W5/Screenshot-2024-02-19-at-12-26-58-AM.png","url":"https://github.com/ankitvars/Amazon_Clone"},{"id":"3","title":"Deliveroo Clone","description":"App Development","imageSrc":"https://i.ibb.co/J2QwXrx/Screenshot-2024-02-19-at-1-25-47-AM.png","url":"https://github.com/ankitvars/deliveroo-clone-rn"},{"id":"4","title":"Netflix Clone (UI)","description":"Web Development","imageSrc":"https://i.ibb.co/Fx2y6KQ/Screenshot-2024-02-19-at-12-29-30-AM.png","url":"https://github.com/ankitvars/netflix-clone"},{"id":"5","title":"Booking Clone","description":"Web Development","imageSrc":"https://hmp.me/edx8","url":"https://github.com/ankitvars/booking-clone"}],"services":[],"aboutpara":" With expertise in React, React Native, and a flair for UI design, I'm dedicated to creating intuitive and visually appealing digital experiences. Always eager to learn and collaborate on innovative projects, I bring a blend of creativity and technical skills to every endeavor.","resume":{"tagline":"👋 Frontend Developer: Designing Software, Crafting Experiences","description":"Proficient in React, TypeScript and React Native for mobile development. Experienced in Next.js and various web frameworks, specializing in frontend development and styling technologies.","experiences":[{"id":"1","dates":"August 2023 - Present","type":"Full Time","position":"Frontend Engineer at Ruptok Fintech Pvt. Ltd.","bullets":"Applied software system design patterns and thorough unit testing to develop resilient and scalable frontend solutions for an AI-powered fintech accounting platform, prioritizing user engagement and performance optimization,Conducted performance testing to optimize system efficiency and responsive web design, ensuring seamless user experience,In addition to employing cutting-edge frontend technologies to optimize performance, I facilitated agile development practices and seamlessly integrated microservices"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"April 2023 - July 2023","type":"Full Time","position":"Frontend Intern at Ruptok Fintech Pvt. Ltd.","bullets":"Collaborated with senior developers to implement UI/UX designs using React.js, ensuring seamless functionality and responsiveness across multiple platforms, Assisted in debugging and optimizing codebase for improved performance, enhancing user experience and reducing loading times, Contributed to the development of new features and enhancements, actively participating in code reviews and providing valuable insights to enhance product quality and usability"}],"education":{"universityName":"Bundelkhand Institute of Engineering & Technology, Jhansi","universityDate":"2018-2022","universityPara":"Bachelor of Technology"},"languages":["Javascript","HTML5","CSS3","Java","Typescript"],"frameworks":["React js","Typescript","React Native","Next js","Redux.js"],"others":["Git","Figma","Data Structures"]}}
+{
+  "name": "Ankit Varshney",
+  "headerTaglineOne": "Hey there! 👋",
+  "headerTaglineTwo": "I'm Ankit Varshney,",
+  "headerTaglineThree": "an impassioned frontend devloper",
+  "headerTaglineFour": " based in New Delhi, India.",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    { "id": "1", "title": "Github", "link": "https://github.com/ankitvars" },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/ankitvars/"
+    },
+    { "id": "3", "title": "Twitter", "link": "https://twitter.com/ankit_vars" },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:varshneyankit011@gmail.com"
+    },
+    {
+      "id": "2ecc0246-0cde-4151-8ce9-6d40a8c89afb",
+      "title": "Leetcode",
+      "link": "https://leetcode.com/ankit1802/"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Disney+ clone",
+      "description": "Web Development",
+      "imageSrc": "https://i.ibb.co/FbkTZXC/project1.png",
+      "url": "https://github.com/ankitvars/youtube-disney-clone"
+    },
+    {
+      "id": "2",
+      "title": "Amazon Clone (UI)",
+      "description": "Web Development",
+      "imageSrc": "https://i.ibb.co/JCRr0W5/Screenshot-2024-02-19-at-12-26-58-AM.png",
+      "url": "https://github.com/ankitvars/Amazon_Clone"
+    },
+    {
+      "id": "3",
+      "title": "Deliveroo Clone",
+      "description": "App Development",
+      "imageSrc": "https://i.ibb.co/J2QwXrx/Screenshot-2024-02-19-at-1-25-47-AM.png",
+      "url": "https://github.com/ankitvars/deliveroo-clone-rn"
+    },
+    {
+      "id": "4",
+      "title": "Netflix Clone (UI)",
+      "description": "Web Development",
+      "imageSrc": "https://i.ibb.co/Fx2y6KQ/Screenshot-2024-02-19-at-12-29-30-AM.png",
+      "url": "https://github.com/ankitvars/netflix-clone"
+    },
+    {
+      "id": "5",
+      "title": "Booking Clone",
+      "description": "Web Development",
+      "imageSrc": "https://hmp.me/edx8",
+      "url": "https://github.com/ankitvars/booking-clone"
+    }
+  ],
+  "services": [],
+  "aboutpara": " With expertise in React, React Native, and a flair for UI design, I'm dedicated to creating intuitive and visually appealing digital experiences. Always eager to learn and collaborate on innovative projects, I bring a blend of creativity and technical skills to every endeavor.",
+  "resume": {
+    "tagline": "👋 Frontend Developer: Designing Software, Crafting Experiences",
+    "description": "Proficient in React, TypeScript and React Native for mobile development. Experienced in Next.js and various web frameworks, specializing in frontend development and styling technologies.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "August 2023 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at Ruptok Fintech Pvt. Ltd.",
+        "bullets": "Applied software system design patterns and thorough unit testing to develop resilient and scalable frontend solutions for an AI-powered fintech accounting platform, prioritizing user engagement and performance optimization,Conducted performance testing to optimize system efficiency and responsive web design, ensuring seamless user experience,In addition to employing cutting-edge frontend technologies to optimize performance, I facilitated agile development practices and seamlessly integrated microservices"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "April 2023 - July 2023",
+        "type": "Full Time",
+        "position": "Frontend Intern at Ruptok Fintech Pvt. Ltd.",
+        "bullets": "Collaborated with senior developers to implement UI/UX designs using React.js, ensuring seamless functionality and responsiveness across multiple platforms, Assisted in debugging and optimizing codebase for improved performance, enhancing user experience and reducing loading times, Contributed to the development of new features and enhancements, actively participating in code reviews and providing valuable insights to enhance product quality and usability"
+      }
+    ],
+    "education": {
+      "universityName": "Bundelkhand Institute of Engineering & Technology, Jhansi",
+      "universityDate": "2018-2022",
+      "universityPara": "Bachelor of Technology"
+    },
+    "languages": ["Javascript", "HTML5", "CSS3", "Java", "Typescript"],
+    "frameworks": [
+      "React js",
+      "Typescript",
+      "React Native",
+      "Next js",
+      "Redux.js"
+    ],
+    "others": ["Git", "Figma", "Data Structures"]
+  }
+}
