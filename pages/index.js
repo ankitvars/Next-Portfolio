@@ -29,6 +29,7 @@ export default function Home() {
     });
   };
 
+  // Handle about scroll
   const handleAboutScroll = () => {
     window.scrollTo({
       top: aboutRef.current.offsetTop,
