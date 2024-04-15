@@ -1,9 +1,9 @@
 {
   "name": "Ankit Varshney",
   "headerTaglineOne": "Hey there! 👋",
-  "headerTaglineTwo": "I'm Ankit Varshney,",
-  "headerTaglineThree": "an impassioned frontend devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "headerTaglineTwo": "I'm Ankit Varshney. ",
+  "headerTaglineThree": "Welcome to my portfolio space.",
+  "headerTaglineFour": "Let's embark on a journey of creativity together!",
   "showCursor": false,
   "showBlog": false,
   "darkMode": true,
@@ -13,7 +13,7 @@
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/ankitvars/"
+      "link": "https://www.linkedin.com/in/ankit-varshney-7b0652301"
     },
     { "id": "3", "title": "Twitter", "link": "https://twitter.com/ankit_vars" },
     {
@@ -60,7 +60,7 @@
       "id": "5",
       "title": "Booking Clone",
       "description": "Web Development",
-      "imageSrc": "https://hmp.me/edx8",
+      "imageSrc": "https://i.postimg.cc/4dD6G0Rm/Screenshot-2024-04-16-at-3-35-43-AM.png",
       "url": "https://github.com/ankitvars/booking-clone"
     }
   ],
